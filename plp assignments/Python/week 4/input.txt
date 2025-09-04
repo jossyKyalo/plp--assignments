@@ -1,0 +1,5 @@
+Python is fun.
+I love programming.
+ChatGPT helps me learn.
+PLP is amazing!
+This is the test file that I'm using.
